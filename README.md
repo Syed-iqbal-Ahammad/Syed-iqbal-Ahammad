@@ -40,10 +40,4 @@
   - 📫 Reach me at syediqbalahammad333@gmail.com.
 </p>
 
-###
 
-<h3 align="left">📈 GitHub Stats</h3>
-
-<div align="center">
-  <img src=`https://streak-stats.demolab.com/?user=Syed-iqbal-Ahammad&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3` height="220" alt="Streak Stats" />
-</div>
